@@ -1,6 +1,8 @@
 # fcoint_r
 Fourier cointegration tests for time series with smooth structural breaks Use fcoint With (in) R Software
 
+https://www.youtube.com/watch?v=JyqeYIAdEWI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
